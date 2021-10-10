@@ -1,0 +1,10 @@
+C:\Users\Tanaille\OneDrive - Ferrum High School\NWU\2021\Semester 2\CMPG223\Project\System\CMPG223_System\Installer\obj\Debug\Installer.csproj.AssemblyReference.cache
+C:\Users\Tanaille\OneDrive - Ferrum High School\NWU\2021\Semester 2\CMPG223\Project\System\CMPG223_System\Installer\obj\Debug\Installer.frmInstaller.resources
+C:\Users\Tanaille\OneDrive - Ferrum High School\NWU\2021\Semester 2\CMPG223\Project\System\CMPG223_System\Installer\obj\Debug\Installer.Properties.Resources.resources
+C:\Users\Tanaille\OneDrive - Ferrum High School\NWU\2021\Semester 2\CMPG223\Project\System\CMPG223_System\Installer\obj\Debug\Installer.csproj.GenerateResource.cache
+C:\Users\Tanaille\OneDrive - Ferrum High School\NWU\2021\Semester 2\CMPG223\Project\System\CMPG223_System\Installer\obj\Debug\Installer.csproj.CoreCompileInputs.cache
+C:\Users\Tanaille\OneDrive - Ferrum High School\NWU\2021\Semester 2\CMPG223\Project\System\CMPG223_System\Installer\bin\Debug\Setup.exe.config
+C:\Users\Tanaille\OneDrive - Ferrum High School\NWU\2021\Semester 2\CMPG223\Project\System\CMPG223_System\Installer\bin\Debug\Setup.exe
+C:\Users\Tanaille\OneDrive - Ferrum High School\NWU\2021\Semester 2\CMPG223\Project\System\CMPG223_System\Installer\bin\Debug\Setup.pdb
+C:\Users\Tanaille\OneDrive - Ferrum High School\NWU\2021\Semester 2\CMPG223\Project\System\CMPG223_System\Installer\obj\Debug\Setup.exe
+C:\Users\Tanaille\OneDrive - Ferrum High School\NWU\2021\Semester 2\CMPG223\Project\System\CMPG223_System\Installer\obj\Debug\Setup.pdb
